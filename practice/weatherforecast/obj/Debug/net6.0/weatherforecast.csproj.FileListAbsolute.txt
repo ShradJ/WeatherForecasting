@@ -1,0 +1,213 @@
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\appsettings.json
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\weatherforecast.exe
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\weatherforecast.deps.json
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\weatherforecast.runtimeconfig.json
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\weatherforecast.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\weatherforecast.pdb
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\Humanizer.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\comerr64.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\gssapi64.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\k5sprt64.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\krb5_64.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\krbcc64.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.csproj.AssemblyReference.cache
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.AssemblyInfoInputs.cache
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.AssemblyInfo.cs
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.csproj.CoreCompileInputs.cache
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\obj\Debug\net6.0\scopedcss\bundle\weatherforecast.styles.css
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.csproj.CopyComplete
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\obj\Debug\net6.0\refint\weatherforecast.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.pdb
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.genruntimeconfig.cache
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice\practice\weatherforecast\obj\Debug\net6.0\ref\weatherforecast.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\appsettings.json
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\weatherforecast.exe
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\weatherforecast.deps.json
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\weatherforecast.runtimeconfig.json
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\weatherforecast.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\weatherforecast.pdb
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\Humanizer.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\comerr64.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\gssapi64.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\k5sprt64.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\krb5_64.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\krbcc64.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.csproj.AssemblyReference.cache
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.AssemblyInfoInputs.cache
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.AssemblyInfo.cs
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.csproj.CoreCompileInputs.cache
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\obj\Debug\net6.0\scopedcss\bundle\weatherforecast.styles.css
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.csproj.CopyComplete
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\obj\Debug\net6.0\refint\weatherforecast.dll
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.pdb
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.genruntimeconfig.cache
+C:\Users\shradsharma\OneDrive - ALLEGIS GROUP\practice-DSC-PF35022R-2\practice\weatherforecast\obj\Debug\net6.0\ref\weatherforecast.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\appsettings.json
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\weatherforecast.exe
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\weatherforecast.deps.json
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\weatherforecast.runtimeconfig.json
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\weatherforecast.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\weatherforecast.pdb
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\Humanizer.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\comerr64.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\gssapi64.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\k5sprt64.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\krb5_64.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\krbcc64.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.csproj.AssemblyReference.cache
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.AssemblyInfoInputs.cache
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.AssemblyInfo.cs
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.csproj.CoreCompileInputs.cache
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\obj\Debug\net6.0\scopedcss\bundle\weatherforecast.styles.css
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.csproj.CopyComplete
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\obj\Debug\net6.0\refint\weatherforecast.dll
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.pdb
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\obj\Debug\net6.0\weatherforecast.genruntimeconfig.cache
+C:\Users\shradsharma\Documents\practice\weatherforecasting\WeatherForecasting\practice\weatherforecast\obj\Debug\net6.0\ref\weatherforecast.dll
