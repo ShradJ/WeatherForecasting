@@ -76,13 +76,13 @@ namespace weatherforecast.Controllers
             var entity = new Measurement
             {
                 MesurementId = measurement.MesurementId,
-               // CityId = measurement.CityId,
+                CityId = measurement.CityId,
                 MinTemp = measurement.MinTemp,
                 MaxTemp = measurement.MaxTemp,
                 Timestamp = measurement.Timestamp,
                 Humdity = measurement.Humdity,
                 WindSpeed = measurement.WindSpeed,
-                City = measurement.City
+               // City = measurement.City
             };
              //city.Measurements.Add(entity);
             weatherdbContext.Measurements.Add(entity);
