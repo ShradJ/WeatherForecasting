@@ -8,7 +8,7 @@ using weatherforecast.Entities;
 namespace weatherforecast.Controllers
 {
     [ApiController]
-    [Route("api/Cities")]
+    [Route("api/cities")]
     public class CityController : ControllerBase
     {
         private readonly WeatherdbContext weatherdbContext;
@@ -36,12 +36,12 @@ namespace weatherforecast.Controllers
         [HttpGet("{cityId}")]
         public async Task<ActionResult<City>> GetCityById(int cityId)
         {
-            City City = await weatherdbContext.Cities
-                .Select(
+            City City = await weatherdbContext.Cities.Where(c => c.CityId == cityId).FirstOrDefaultAsync();
+                /*.Select(
                     c=> new City {
                         CityId=c.CityId,
                          CityName= c.CityName
-                    }).FirstOrDefaultAsync(c => c.CityId == cityId);
+                    }).FirstOrDefaultAsync*/
             if (City == null)
             {
                 return NotFound();
@@ -60,7 +60,7 @@ namespace weatherforecast.Controllers
             return HttpStatusCode.Created;
         }
 
-        [HttpPut("{CityId}")]
+        [HttpPut("{cityId}")]
         public async Task<HttpStatusCode> UpdateCity(City city)
         {
             var entity = await weatherdbContext.Cities.FirstOrDefaultAsync(

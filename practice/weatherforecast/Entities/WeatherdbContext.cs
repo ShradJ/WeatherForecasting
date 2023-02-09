@@ -62,10 +62,11 @@ public partial class WeatherdbContext : DbContext
                 .HasColumnName("timestamp");
             entity.Property(e => e.WindSpeed).HasColumnName("wind_speed");
 
-            entity.HasOne(d => d.City).WithMany(p => p.Measurements)
+           /* entity
+                .HasOne(d => d.City).WithMany(p => p.Measurements)
                 .HasForeignKey(d => d.CityId)
                 .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("fk_measurement_city");
+                .HasConstraintName("fk_measurement_city");*/
         });
 
         OnModelCreatingPartial(modelBuilder);

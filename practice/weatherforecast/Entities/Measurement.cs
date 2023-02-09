@@ -20,6 +20,5 @@ public partial class Measurement
 
     public int? WindSpeed { get; set; }
 
-   
-    public virtual City City { get; set; } = null!;
+    
 }
