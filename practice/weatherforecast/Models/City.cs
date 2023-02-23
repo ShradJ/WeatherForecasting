@@ -8,6 +8,7 @@ public class City
 {
     [Column("city_id")]
     public int CityId { get; set; }
+
     [Column("city_name")]
     public string CityName { get; set; } = null!;
 

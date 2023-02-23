@@ -18,12 +18,11 @@ public class MeasurementService : IMeasurementService
         _context = context;
     }
 
-
     public async Task<ServiceRepsonse<List<GetMeasurementDto>>> AddMeasurement(AddMeasurementDto newMeasurement)
     {
         var serviceResponse = new ServiceRepsonse<List<GetMeasurementDto>>();
         var measurement = _mapper.Map<Measurement>(newMeasurement);
-        //  measurement.CityId = await _context.City.FirstOrDefaultAsync(c => c.CityId == newMeasurement.CityId).;
+
         measurement.CityId = newMeasurement.CityId;
         _context.Measurement.Add(measurement);
         await _context.SaveChangesAsync();
@@ -36,11 +35,14 @@ public class MeasurementService : IMeasurementService
     public async Task<ServiceRepsonse<string>> DeleteMeasurement(int measurementId)
     {
         var serviceResponse = new ServiceRepsonse<string>();
-        var measurement = await _context.Measurement.FirstOrDefaultAsync(m => m.MesurementId == measurementId);
+        var measurement = await _context.Measurement
+                                        .FirstOrDefaultAsync(m => m.MesurementId == measurementId);
+
         if (measurement == null)
         {
             throw new Exception($"Measurement with id = {measurementId} not found.");
         }
+
         _context.Measurement.Remove(measurement);
         await _context.SaveChangesAsync();
         serviceResponse.Data = $"Measurement with id = {measurementId} is deleted.";
@@ -52,7 +54,9 @@ public class MeasurementService : IMeasurementService
     {
         var serviceResponse = new ServiceRepsonse<List<GetMeasurementDto>>();
         var measurements = await _context.Measurement.ToListAsync();
-        serviceResponse.Data = measurements.Select(m => _mapper.Map<GetMeasurementDto>(m)).ToList();
+        serviceResponse.Data = measurements
+                                    .Select(m => _mapper.Map<GetMeasurementDto>(m))
+                                    .ToList();
         return serviceResponse;
     }
 
@@ -67,17 +71,22 @@ public class MeasurementService : IMeasurementService
     public async Task<ServiceRepsonse<GetMeasurementDto>> UpdateMeasurement(UpdateMeasurementDto updateMeasurementDto)
     {
         var serviceResponse = new ServiceRepsonse<GetMeasurementDto>();
+
         try
         {
-            var measurement = await _context.Measurement.FirstOrDefaultAsync(m => m.MesurementId == updateMeasurementDto.MesurementId);
+            var measurement = await _context.Measurement
+                                            .FirstOrDefaultAsync(m => m.MesurementId == updateMeasurementDto.MesurementId);
+
             if (measurement is null)
             {
                 throw new Exception($"Measurement with id = {updateMeasurementDto} not found.");
             }
+
             measurement.Humdity = updateMeasurementDto.Humdity;
             measurement.WindSpeed = updateMeasurementDto.WindSpeed;
             measurement.MaxTemp = updateMeasurementDto.MaxTemp;
             measurement.MinTemp = updateMeasurementDto.MinTemp;
+
             await _context.SaveChangesAsync();
             serviceResponse.Data = _mapper.Map<GetMeasurementDto>(measurement);
         }
@@ -86,6 +95,7 @@ public class MeasurementService : IMeasurementService
             serviceResponse.Success = false;
             serviceResponse.Message = ex.Message;
         }
+
         return serviceResponse;
     }
 }

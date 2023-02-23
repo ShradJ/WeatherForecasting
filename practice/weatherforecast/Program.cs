@@ -15,14 +15,8 @@ builder.Services.AddControllersWithViews()
 );
 
 builder.Services.AddControllers();
-/*builder.Services.AddEntityFrameworkMySQL().AddDbContext<WeatherdbContext>(options => {
-    options.UseMySQL(builder.Configuration.GetConnectionString("DefaultConnection"));
-});*/
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
-
 builder.Services.AddAutoMapper(typeof(Program).Assembly);
 builder.Services.AddScoped<ICityService, CityService>();
 builder.Services.AddScoped<IMeasurementService, MeasurementService>();

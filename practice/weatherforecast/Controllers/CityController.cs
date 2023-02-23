@@ -21,13 +21,15 @@ namespace weatherforecast.Controllers
         [HttpGet]
         public async Task<ActionResult<ServiceRepsonse<List<GetCityDto>>>> Get()
         {
-            return Ok(await _cityService.GetAllCity());
+            return Ok(await _cityService.GetAllCities());
         }
+
         [HttpGet("{cityId}")]
         public async Task<ActionResult<ServiceRepsonse<City>>> GetCityById(int cityId)
         {
-            return Ok(await _cityService.GetCity(cityId));
+            return Ok(await _cityService.GetCityById(cityId));
         }
+
         [HttpPost]
         public async Task<ActionResult<ServiceRepsonse<int>>> InsertCity(AddCityDto city)
         {
@@ -52,16 +54,6 @@ namespace weatherforecast.Controllers
 
             return Ok(response);
         }
-
-
-        /*public void UpdateCityAddMeasurement( Measurement measurement)
-        {
-            var entity = weatherdbContext.City.FirstOrDefault(
-                c => c.CityId == measurement.CityId);
-            entity.Measurement.Add(measurement);
-           weatherdbContext.SaveChangesAsync();
-           
-        }*/
 
     }
 }

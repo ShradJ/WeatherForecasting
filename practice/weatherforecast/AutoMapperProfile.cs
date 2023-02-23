@@ -5,9 +5,9 @@ using weatherforecast.Models;
 
 namespace weatherforecast
 {
-    public class AutoMapperProfile : Profile
+    public class AutoMapperProfiless : Profile
     {
-        public AutoMapperProfile()
+        public AutoMapperProfiless()
         {
             CreateMap<City, GetCityDto>();
             CreateMap<City, AddCityDto>();

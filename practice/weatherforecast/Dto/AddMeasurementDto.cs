@@ -2,7 +2,6 @@
 {
     public class AddMeasurementDto
     {
-        //   public DateTime? Timestamp { get; set; }
 
         public string? MinTemp { get; set; }
 
@@ -12,6 +11,5 @@
 
         public int? WindSpeed { get; set; }
         public int CityId { get; set; }
-        //public City City { get; set; }
     }
 }

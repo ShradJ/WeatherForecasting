@@ -15,18 +15,10 @@ namespace weatherforecast.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
-            // connect to mysql with connection string from app settings
             var connectionString = Configuration.GetConnectionString("DefaultConnection");
             options.UseMySQL(connectionString);
         }
 
-
-
-
-        /*public DataContext(DbContextOptions<DbContext> options) :base(options)
-        {
-
-        }*/
         public DbSet<Measurement> Measurement { get; set; }
         public DbSet<City> City { get; set; }
     }

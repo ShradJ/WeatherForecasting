@@ -6,7 +6,6 @@ namespace weatherforecast.Dto
     {
         [Key]
         public int MesurementId { get; set; }
-        // public DateTime? Timestamp { get; set; }
 
         public string? MinTemp { get; set; }
 

@@ -12,76 +12,89 @@ namespace weatherforecast.Services.CityService
     {
         private readonly IMapper _mapper;
         public DataContext _context;
-        private readonly IHttpContextAccessor _httpContextAccessor;
 
-        public CityService(IMapper mapper, DataContext context, IHttpContextAccessor httpContextAccessor)
+        public CityService(IMapper mapper, DataContext context)
         {
             _mapper = mapper;
             _context = context;
-            _httpContextAccessor = httpContextAccessor;
         }
         public async Task<ServiceRepsonse<List<GetCityDto>>> AddCity(AddCityDto cityToBeAdded)
         {
             var serviceResponse = new ServiceRepsonse<List<GetCityDto>>();
             var city = _mapper.Map<City>(cityToBeAdded);
-            city.CityName = cityToBeAdded.CityName;
 
+            city.CityName = cityToBeAdded.CityName;
             _context.City.Add(city);
-            //WRITES CHANGES TO THE DATABASE with new id
+
             await _context.SaveChangesAsync();
-            serviceResponse.Data = await _context.City
-                                    .Select(c => _mapper.Map<GetCityDto>(c)).ToListAsync();
+            serviceResponse.Data = await _context
+                                         .City
+                                         .Select(c => _mapper
+                                                        .Map<GetCityDto>(c)
+                                                 )
+                                         .ToListAsync();
             return serviceResponse;
         }
 
         public async Task<ServiceRepsonse<string>> DeleteCity(int cityId)
         {
             var serviceResponse = new ServiceRepsonse<string>();
-            var city = await _context.City.FirstOrDefaultAsync(c => c.CityId == cityId);
+            var city = await _context
+                            .City
+                            .FirstOrDefaultAsync(c => c.CityId == cityId);
+
             if (city == null)
             {
                 serviceResponse.Success = false;
                 serviceResponse.Message = $"City with cityId = {cityId} not found";
                 return serviceResponse;
             }
+
             _context.City.Remove(city);
             await _context.SaveChangesAsync();
-            serviceResponse.Data = $"City with id {city.CityId} is deleted.";
+            serviceResponse.Data = $"City with cityId {city.CityId} is deleted.";
             return serviceResponse;
         }
 
-        public async Task<ServiceRepsonse<List<GetCityDto>>> GetAllCity()
+        public async Task<ServiceRepsonse<List<GetCityDto>>> GetAllCities()
         {
             var serviceResponse = new ServiceRepsonse<List<GetCityDto>>();
             var cities = await _context.City.ToListAsync();
             foreach (City city in cities)
             {
-                var measurements = await _context.Measurement
-                                     .Where(m => m.CityId == city.CityId)
-                                    .ToListAsync();
+                var measurements = await _context
+                                            .Measurement
+                                            .Where(m => m.CityId == city.CityId)
+                                            .ToListAsync();
 
                 city.Measurements = measurements.Select(m => _mapper.Map<GetMeasurementDto>(m)).ToList();
             }
-            serviceResponse.Data = cities.Select(c => _mapper.Map<GetCityDto>(c)).ToList();
+            serviceResponse.Data = cities
+                                    .Select(c => _mapper.Map<GetCityDto>(c))
+                                    .ToList();
             return serviceResponse;
         }
 
-        public async Task<ServiceRepsonse<GetCityDto>> GetCity(int id)
+        public async Task<ServiceRepsonse<GetCityDto>> GetCityById(int cityId)
         {
             var serviceResponse = new ServiceRepsonse<GetCityDto>();
-            var city = await _context.City.FirstOrDefaultAsync(c => c.CityId == id);
+            var city = await _context.City.FirstOrDefaultAsync(c => c.CityId == cityId);
+
             if (city is null)
             {
                 serviceResponse.Success = false;
-                serviceResponse.Message = $"City with id = {id} not found.";
+                serviceResponse.Message = $"City with cityId = {cityId} not found.";
                 return serviceResponse;
-                //throw new Exception($"City with id = {id} not found.");
+                //throw new Exception($"City with cityId = {cityId} not found.");
             }
-            var measurements = await _context.Measurement
-                                     .Where(m => m.CityId == id)
-                                    .ToListAsync();
 
-            city.Measurements = measurements.Select(m => _mapper.Map<GetMeasurementDto>(m)).ToList();
+            var measurements = await _context.Measurement
+                                     .Where(m => m.CityId == cityId)
+                                     .ToListAsync();
+
+            city.Measurements = measurements
+                                .Select(m => _mapper.Map<GetMeasurementDto>(m))
+                                .ToList();
             serviceResponse.Data = _mapper.Map<GetCityDto>(city);
             return serviceResponse;
         }
@@ -91,11 +104,14 @@ namespace weatherforecast.Services.CityService
             var serviceResponse = new ServiceRepsonse<GetCityDto>();
             try
             {
-                var city = await _context.City.FirstOrDefaultAsync(c => c.CityId == cityId);
+                var city = await _context.City
+                                         .FirstOrDefaultAsync(c => c.CityId == cityId);
+
                 if (city is null)
                 {
-                    throw new Exception($"City with id = {cityId} not found.");
+                    throw new Exception($"City with cityId = {cityId} not found.");
                 }
+
                 city.CityName = updateCity.CityName;
                 await _context.SaveChangesAsync();
                 serviceResponse.Data = _mapper.Map<GetCityDto>(city);

@@ -9,10 +9,6 @@ public partial class Measurement
     [Key]
     public int MesurementId { get; set; }
 
-
-    /* [Column("timestamp")]
-     public DateTime? Timestamp { get; set; }*/
-
     [Column("min_temp")]
     public string? MinTemp { get; set; }
 
@@ -24,7 +20,6 @@ public partial class Measurement
 
     [Column("wind_speed")]
     public int? WindSpeed { get; set; }
-
 
     [ForeignKey("city_id")]
     [Column("city_id")]
