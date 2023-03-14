@@ -11,9 +11,9 @@ namespace weatherforecast.Services.CityService
     public class CityService : ICityService
     {
         private readonly IMapper _mapper;
-        public DataContext _context;
+        public WeatherDataContext _context;
 
-        public CityService(IMapper mapper, DataContext context)
+        public CityService(IMapper mapper, WeatherDataContext context)
         {
             _mapper = mapper;
             _context = context;

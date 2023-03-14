@@ -6,7 +6,7 @@ using weatherforecast.Services.CityService;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddDbContext<DataContext>(options =>
+builder.Services.AddDbContext<WeatherDataContext>(options =>
     options.UseMySQL(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 builder.Services.AddControllersWithViews()

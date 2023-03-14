@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shradsharma\\OneDrive - ALLEGIS GROUP\\practice-DSC-PF35022R-2\\practice\\weatherforecast\\weatherforecast.csproj": {}
+    "C:\\Users\\shradsharma\\source\\repos\\WeatherForecasting\\practice\\weatherforecast\\weatherforecast.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shradsharma\\OneDrive - ALLEGIS GROUP\\practice-DSC-PF35022R-2\\practice\\weatherforecast\\weatherforecast.csproj": {
+    "C:\\Users\\shradsharma\\source\\repos\\WeatherForecasting\\practice\\weatherforecast\\weatherforecast.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shradsharma\\OneDrive - ALLEGIS GROUP\\practice-DSC-PF35022R-2\\practice\\weatherforecast\\weatherforecast.csproj",
+        "projectUniqueName": "C:\\Users\\shradsharma\\source\\repos\\WeatherForecasting\\practice\\weatherforecast\\weatherforecast.csproj",
         "projectName": "weatherforecast",
-        "projectPath": "C:\\Users\\shradsharma\\OneDrive - ALLEGIS GROUP\\practice-DSC-PF35022R-2\\practice\\weatherforecast\\weatherforecast.csproj",
+        "projectPath": "C:\\Users\\shradsharma\\source\\repos\\WeatherForecasting\\practice\\weatherforecast\\weatherforecast.csproj",
         "packagesPath": "C:\\Users\\shradsharma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shradsharma\\OneDrive - ALLEGIS GROUP\\practice-DSC-PF35022R-2\\practice\\weatherforecast\\obj\\",
+        "outputPath": "C:\\Users\\shradsharma\\source\\repos\\WeatherForecasting\\practice\\weatherforecast\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\shradsharma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,15 +59,35 @@
               "target": "Package",
               "version": "[7.0.2, )"
             },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.2, )"
             },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.4, )"
+            },
             "MySql.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -88,7 +113,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

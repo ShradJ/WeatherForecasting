@@ -10,9 +10,9 @@ public class MeasurementService : IMeasurementService
 {
 
     private readonly IMapper _mapper;
-    public DataContext _context;
+    public WeatherDataContext _context;
 
-    public MeasurementService(IMapper mapper, DataContext context)
+    public MeasurementService(IMapper mapper, WeatherDataContext context)
     {
         _mapper = mapper;
         _context = context;
