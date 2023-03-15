@@ -40,7 +40,7 @@ namespace weatherforecast.Services.CityService
             var city = _mapper.Map<City>(cityToBeAdded);
             city.CityName = cityToBeAdded.CityName;
             _context.City.Add(city);
-            _context.SaveChangesAsync();
+            _context.SaveChanges();
             return city;
 
         }
