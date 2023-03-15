@@ -24,17 +24,14 @@ namespace watherforecast
         {
             IMapper _mapper = AutoMapperConfig.Initialize();
             var mockSet = new Mock<DbSet<City>>();
-            
-          
             var mockContext = new Mock<WeatherDataContext>();
             mockContext.Setup(m=>m.City).Returns(mockSet.Object);
-            
+
             var service = new CityService(_mapper, mockContext.Object);
-            
-            //get the mapper from service. look at auto mapper, how to use it in unit test
             var cityToBeAdded = new AddCityDto() { CityName = "testCity" };
-            var result = service.AddCity(cityToBeAdded);
-            Assert.That(result.Result.Success, "true" );
+            var result = service.AddCityWithoutAsync(cityToBeAdded);
+
+            Assert.That(result.CityName, Is.EqualTo("testCity"));
            
         }
     }

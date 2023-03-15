@@ -35,6 +35,15 @@ namespace weatherforecast.Services.CityService
                                          .ToListAsync();
             return serviceResponse;
         }
+        public City AddCityWithoutAsync(AddCityDto cityToBeAdded)
+        {
+            var city = _mapper.Map<City>(cityToBeAdded);
+            city.CityName = cityToBeAdded.CityName;
+            _context.City.Add(city);
+            _context.SaveChangesAsync();
+            return city;
+
+        }
 
         public async Task<ServiceRepsonse<string>> DeleteCity(int cityId)
         {
